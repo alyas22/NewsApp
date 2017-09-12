@@ -17,9 +17,7 @@ import java.net.URL;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 
-/**
- * Created by Toshiba on 30/08/17.
- */
+
 
 public class QueryUtils {
     public static String LOG_TAG = QueryUtils.class.getSimpleName();

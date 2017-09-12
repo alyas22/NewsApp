@@ -1,9 +1,5 @@
 package com.example.android.newsapp;
 
-/**
- * Created by Toshiba on 29/08/17.
- */
-
 public class News {
     private String mTitle;
     private String mAuthor;

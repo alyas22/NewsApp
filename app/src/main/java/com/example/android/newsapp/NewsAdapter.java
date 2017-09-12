@@ -13,14 +13,10 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Locale;
 
-/**
- * Created by Toshiba on 29/08/17.
- */
-
 public class NewsAdapter extends ArrayAdapter<News> {
 
-    public NewsAdapter(Context context, ArrayList<News> books) {
-        super(context, 0, books);
+    public NewsAdapter(Context context, ArrayList<News> news) {
+        super(context, 0, news);
     }
 
     private static String formatDate(String dateObject) {

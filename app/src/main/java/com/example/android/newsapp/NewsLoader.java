@@ -6,9 +6,6 @@ import android.util.Log;
 
 import java.util.List;
 
-/**
- * Created by Toshiba on 30/08/17.
- */
 
 public class NewsLoader  extends AsyncTaskLoader<List<News>> {
 
